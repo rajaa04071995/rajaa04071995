@@ -4,14 +4,12 @@
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Experience-2%20years-blue" alt="Experience: 2 years">
-  <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?&style=flat&logo=react&logoColor=white" alt="React.js">
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=flat&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Agile-Workflow-orange" alt="Agile Workflow">
-</div>
-
+## 💼 About Me
+- 🔍 Always exploring multiple solutions to deliver the best.
+- 🎨 Passionate about creating seamless, user-centered designs.
+- 📈 Skilled in optimizing applications for high performance.
+- 💡 Agile team player and continuous learner.
+  
 ---
 
 ## ⚙️ Skills
@@ -25,14 +23,6 @@
   <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=white" alt="Git">
 </div>
 
----
-
-## 💼 About Me
-- 🔍 Always exploring multiple solutions to deliver the best.
-- 🎨 Passionate about creating seamless, user-centered designs.
-- 📈 Skilled in optimizing applications for high performance.
-- 💡 Agile team player and continuous learner.
-  
 ---
 
 ## 🔗 Connect with Me
