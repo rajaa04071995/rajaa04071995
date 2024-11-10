@@ -14,10 +14,6 @@
 
 ---
 
-<p align="center">🌐 Full Stack Developer with 2 years of experience in <strong>React.js</strong>, <strong>Node.js</strong>, and <strong>MySQL</strong>. Skilled in Agile workflows, delivering high-performance code, and solving problems by exploring multiple solutions to find the best one.</p>
-
----
-
 ## ⚙️ Skills
 
 <div align="center">
